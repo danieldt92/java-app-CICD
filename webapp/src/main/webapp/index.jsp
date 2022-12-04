@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>HOLA! Macho!  PANELD E REGISTRO</h1>
+    <h1>HOLA! PANEL DE REGISTRO</h1>
     <p>Porfavor! rellena este formulario para registrarte.</p>
     <hr>
      
@@ -13,7 +13,7 @@
     <br>
 
     <label for="email"><b>EMAIL</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter your Email" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>CONTRASEÑA</b></label>
