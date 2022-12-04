@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>HOLA! PANEL DE REGISTRO</h1>
-    <p>Porfavor, rellena este formulario para registrarte.</p>
+    <p>Porfavor!, rellena este formulario para registrarte.</p>
     <hr>
      
     <label for="Name"><b>NOMBRE</b></label>
